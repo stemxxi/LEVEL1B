@@ -395,10 +395,16 @@ img{
 
 
 .extra-title{
-  margin-bottom: -250px;
+  margin-bottom: -200px;
 }
 
+.home__title{
+  margin-top: 0px;
+}
 
+.t-footer{
+  margin-top: 800px !important;
+}
 
 .homework-link{
   list-style: none !important;
@@ -412,7 +418,7 @@ img{
 }
 
 .mt-footer{
-  margin-top: 943px;
+  margin-top: 1042px;
 }
 
 
